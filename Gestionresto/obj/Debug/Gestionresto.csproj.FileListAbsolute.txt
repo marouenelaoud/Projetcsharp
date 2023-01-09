@@ -1,0 +1,62 @@
+D:\csharptp\Gestionresto\bin\Debug\Gestionresto.exe.config
+D:\csharptp\Gestionresto\bin\Debug\Gestionresto.exe
+D:\csharptp\Gestionresto\bin\Debug\Gestionresto.pdb
+D:\csharptp\Gestionresto\bin\Debug\Guna.UI2.dll
+D:\csharptp\Gestionresto\bin\Debug\MetroFramework.Design.dll
+D:\csharptp\Gestionresto\bin\Debug\MetroFramework.dll
+D:\csharptp\Gestionresto\bin\Debug\MetroFramework.Fonts.dll
+D:\csharptp\Gestionresto\obj\Debug\Gestionresto.csproj.AssemblyReference.cache
+D:\csharptp\Gestionresto\obj\Debug\Gestionresto.csproj.SuggestedBindingRedirects.cache
+D:\csharptp\Gestionresto\obj\Debug\Gestionresto.Fhome.resources
+D:\csharptp\Gestionresto\obj\Debug\Gestionresto.Form1.resources
+D:\csharptp\Gestionresto\obj\Debug\Gestionresto.FormMain.resources
+D:\csharptp\Gestionresto\obj\Debug\Gestionresto.Properties.Resources.resources
+D:\csharptp\Gestionresto\obj\Debug\Gestionresto.csproj.GenerateResource.cache
+D:\csharptp\Gestionresto\obj\Debug\Gestionresto.csproj.CoreCompileInputs.cache
+D:\csharptp\Gestionresto\obj\Debug\Gestionresto.csproj.CopyComplete
+D:\csharptp\Gestionresto\obj\Debug\Gestionresto.exe
+D:\csharptp\Gestionresto\obj\Debug\Gestionresto.pdb
+D:\csharptp\Gestionresto\obj\Debug\Gestionresto.Fprod.resources
+D:\csharptp\Gestionresto\obj\Debug\Gestionresto.Fcat.resources
+C:\Users\LENOVO\Downloads\Gestionresto (1)\Gestionresto\bin\Debug\Gestionresto.exe.config
+C:\Users\LENOVO\Downloads\Gestionresto (1)\Gestionresto\bin\Debug\Gestionresto.exe
+C:\Users\LENOVO\Downloads\Gestionresto (1)\Gestionresto\bin\Debug\Gestionresto.pdb
+C:\Users\LENOVO\Downloads\Gestionresto (1)\Gestionresto\bin\Debug\Guna.UI2.dll
+C:\Users\LENOVO\Downloads\Gestionresto (1)\Gestionresto\bin\Debug\MetroFramework.Design.dll
+C:\Users\LENOVO\Downloads\Gestionresto (1)\Gestionresto\bin\Debug\MetroFramework.dll
+C:\Users\LENOVO\Downloads\Gestionresto (1)\Gestionresto\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\LENOVO\Downloads\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Downloads\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.Fcat.resources
+C:\Users\LENOVO\Downloads\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.Fhome.resources
+C:\Users\LENOVO\Downloads\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.Form1.resources
+C:\Users\LENOVO\Downloads\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.FormMain.resources
+C:\Users\LENOVO\Downloads\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.Fprod.resources
+C:\Users\LENOVO\Downloads\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.exe
+C:\Users\LENOVO\Downloads\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.pdb
+C:\Users\LENOVO\Downloads\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.Ffac.resources
+D:\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.csproj.AssemblyReference.cache
+D:\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.csproj.SuggestedBindingRedirects.cache
+D:\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.Fcat.resources
+D:\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.Ffac.resources
+D:\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.Fhome.resources
+D:\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.Form1.resources
+D:\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.FormMain.resources
+D:\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.Fprod.resources
+D:\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.Properties.Resources.resources
+D:\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.csproj.GenerateResource.cache
+D:\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.csproj.CoreCompileInputs.cache
+D:\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.exe
+D:\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.pdb
+D:\Gestionresto (1)\Gestionresto\bin\Debug\Gestionresto.exe.config
+D:\Gestionresto (1)\Gestionresto\bin\Debug\Gestionresto.exe
+D:\Gestionresto (1)\Gestionresto\bin\Debug\Gestionresto.pdb
+D:\Gestionresto (1)\Gestionresto\bin\Debug\Guna.UI2.dll
+D:\Gestionresto (1)\Gestionresto\bin\Debug\MetroFramework.Design.dll
+D:\Gestionresto (1)\Gestionresto\bin\Debug\MetroFramework.dll
+D:\Gestionresto (1)\Gestionresto\bin\Debug\MetroFramework.Fonts.dll
+D:\Gestionresto (1)\Gestionresto\obj\Debug\Gestionresto.csproj.CopyComplete
